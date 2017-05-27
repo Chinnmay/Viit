@@ -1,0 +1,2 @@
+module EntcHelper
+end
